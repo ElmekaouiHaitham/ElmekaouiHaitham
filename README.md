@@ -28,7 +28,7 @@ I love making projects that are related to Math and Physics.\
 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />\
 
 #
 
