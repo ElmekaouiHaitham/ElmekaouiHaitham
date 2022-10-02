@@ -49,4 +49,8 @@ tool to help you convert UML class diagrams to code easily [uml to dart ](https:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ElmekaouiHaitham&theme=gruvbox&border_radius=4.5)
 
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=j-j-gajjar&show_icons=true&theme=dracula&line_height=27" />
+</p>
 #
