@@ -43,7 +43,7 @@ tool to help you convert UML class diagrams to code easily [uml to dart ](https:
 ### 📊 Stats
 
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=j-j-gajjar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/ElmekaouiHaitham)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ElmekaouiHaitham&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/ElmekaouiHaitham)
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElmekaouiHaitham&show_icons=true&theme=gruvbox)
 
