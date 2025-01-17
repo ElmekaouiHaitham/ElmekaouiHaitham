@@ -6,6 +6,8 @@ AI Enthusiast | Back-End & Flutter Developer | Engineering Student
 
 I’m an engineering student passionate about AI, web development, and Maths.
 
+# [Portfolio](https://rabat-weather.vercel.app/weather)
+
  <p align="left">
       <a href="https://github.com/ElmekaouiHaitham?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ElmekaouiHaitham?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
