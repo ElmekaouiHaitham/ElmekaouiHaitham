@@ -46,4 +46,7 @@ weather prediction app [Rabat weather](https://rabat-weather.vercel.app/weather)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ElmekaouiHaitham&theme=gruvbox&border_radius=4.5)
 
-
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmekaouiHaitham&theme=dark&hide_langs_below=1" />
+    
+</p>
