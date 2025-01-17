@@ -1,6 +1,6 @@
 # haitham 👋
 
-**`flutter # back-end developer`**
+**`Engineering student at ENSAM`**
 
 AI Enthusiast | Back-End & Flutter Developer | Engineering Student
 
