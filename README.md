@@ -2,9 +2,9 @@
 
 **`flutter # back-end developer`**
 
-i am a flutter & back-end developer
-I don't have a lot of experience with flutter and Flask but I am good, I made several projects some of them are in my github, My **favorite** one is **_remember it_**\
-I love making projects that are related to Math and Physics.\
+AI Enthusiast | Back-End & Flutter Developer | Engineering Student
+
+I’m an engineering student passionate about AI, web development, and Maths.
 
  <p align="left">
       <a href="https://github.com/ElmekaouiHaitham?tab=followers">
@@ -17,16 +17,14 @@ I love making projects that are related to Math and Physics.\
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
 
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />\
 
@@ -34,23 +32,16 @@ I love making projects that are related to Math and Physics.\
 
 ### 📺 Latest project
 
-a spaced repetition app [remember it](https://rememberit-haitham.web.app/)\
-
-tool to help you convert UML class diagrams to code easily [uml to dart ](https://umltodart.web.app/)
+weather prediction app [Rabat weather](https://rabat-weather.vercel.app/weather)\
 
 #
 
 ### 📊 Stats
 
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ElmekaouiHaitham&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/ElmekaouiHaitham)
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElmekaouiHaitham&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ElmekaouiHaitham&theme=gruvbox&border_radius=4.5)
 
-<p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmekaouiHaitham&theme=dark&hide_langs_below=1" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ElmekaouiHaitham&show_icons=true&theme=dracula&line_height=27" />
-</p>
-#
+
