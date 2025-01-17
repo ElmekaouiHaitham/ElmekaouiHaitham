@@ -6,7 +6,7 @@ AI Enthusiast | Back-End & Flutter Developer | Engineering Student
 
 I’m an engineering student passionate about AI, web development, and Maths.
 
-check my [Portfolio](https://rabat-weather.vercel.app/weather)
+check my [Portfolio](https://haitham-elm.vercel.app/)
 
  <p align="left">
       <a href="https://github.com/ElmekaouiHaitham?tab=followers">
