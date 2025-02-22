@@ -35,6 +35,7 @@ check my [Portfolio](https://haitham-elm.vercel.app/)
 ### 📺 Latest project
 
 weather prediction app [Rabat weather](https://rabat-weather.vercel.app/weather)\
+an ecommerce website [Ecommerce](https://github.com/ElmekaouiHaitham/ecommerce)\
 
 #
 
