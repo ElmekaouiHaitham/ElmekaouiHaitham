@@ -2,7 +2,7 @@
 
 **`Engineering student at ENSAM`**
 
-AI Enthusiast | Back-End & Flutter Developer | Engineering Student
+AI & web Developer | Engineering Student
 
 I’m an engineering student passionate about AI, web development, and Maths.
 
