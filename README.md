@@ -4,7 +4,7 @@
 
 AI & web Developer | Engineering Student
 
-I’m an engineering student passionate about AI, web development, and Maths.
+I’m an engineering student passionate about AI, web development, and Maths
 
 check my [Portfolio](https://haitham-elm.vercel.app/)
 
